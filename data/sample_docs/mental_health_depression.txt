@@ -1,0 +1,57 @@
+DEPRESSION AND MOOD DISORDERS
+
+Source: Educational content based on WHO, NHS, and APA (American Psychiatric Association) DSM-5 guidelines
+
+OVERVIEW
+Depressive disorders are among the most prevalent mental health conditions globally, affecting an estimated 280 million people worldwide. Major Depressive Disorder (MDD) is more than transient sadness or temporary grief; it is a serious medical illness characterized by persistent emotional, cognitive, somatic, and behavioral disruptions that interfere significantly with daily functioning, work, and personal relationships.
+
+DIAGNOSTIC CRITERIA (DSM-5 / ICD-11 Standards)
+A diagnosis of Major Depressive Disorder requires the presence of at least 5 of the following 9 symptoms nearly every day for a minimum of two consecutive weeks, with at least one symptom being either depressed mood or loss of interest/pleasure:
+1. Depressed mood most of the day, nearly every day (feeling sad, empty, hopeless, or tearful)
+2. Marked diminished interest or pleasure (anhedonia) in all, or almost all, activities previously enjoyed
+3. Significant unintentional weight loss when not dieting, weight gain, or decrease/increase in appetite
+4. Insomnia (difficulty falling asleep, staying asleep, or early morning awakening) or hypersomnia (excessive daytime sleeping)
+5. Psychomotor agitation (restlessness, pacing) or psychomotor retardation (slowed speech and movements)
+6. Fatigue or loss of energy nearly every day
+7. Feelings of worthlessness or excessive, inappropriate guilt
+8. Diminished ability to think, concentrate, or make decisions
+9. Recurrent thoughts of death, suicidal ideation without a specific plan, suicide attempt, or a specific plan for committing suicide
+
+SUBTYPES OF DEPRESSIVE DISORDERS
+- Persistent Depressive Disorder (Dysthymia): Chronic depressed mood lasting for at least 2 years in adults, typically less severe than MDD but enduring.
+- Perinatal / Postpartum Depression: Severe depressive episodes occurring during pregnancy or within the weeks/months following childbirth.
+- Seasonal Affective Disorder (SAD): Depressive episodes exhibiting a seasonal pattern, typically recurring in late autumn and winter months, associated with reduced daylight exposure.
+- Bipolar Depression: Depressive episodes occurring as part of Bipolar I or II disorder, alternating with manic or hypomanic episodes. Treating bipolar depression with standard antidepressants alone requires extreme caution due to the risk of inducing manic switching.
+
+CLINICAL ASSESSMENT AND SCREENING
+Standardized validated clinical rating scales used to screen and monitor symptom severity include:
+- PHQ-9 (Patient Health Questionnaire-9): 9-item self-report questionnaire scoring severity from 0 to 27 (scores 10-14 indicate moderate, 15-19 moderately severe, 20-27 severe depression). Item 9 specifically assesses suicidal thoughts.
+- GAD-7: Often co-administered given high comorbidity with anxiety disorders.
+
+EVIDENCE-BASED TREATMENT APPROACHES
+
+1. Psychotherapy:
+- Cognitive Behavioral Therapy (CBT): The most thoroughly researched psychological intervention. Helps patients identify and restructure negative cognitive distortions, maladaptive automatic thoughts, and implement behavioral activation to re-engage in meaningful activities.
+- Interpersonal Psychotherapy (IPT): Focuses on resolving interpersonal disputes, role transitions, and grief.
+- Mindfulness-Based Cognitive Therapy (MBCT): Particularly effective in preventing depressive relapse in individuals with recurrent depression.
+
+2. Pharmacotherapy:
+Indicated particularly for moderate to severe depressive episodes:
+- Selective Serotonin Reuptake Inhibitors (SSRIs): First-line agents (e.g., sertraline, escitalopram, fluoxetine, citalopram). Generally favorable tolerability and safety profile. Common initial side effects: mild nausea, headache, transient sleep disruption, and sexual dysfunction.
+- Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs): E.g., venlafaxine, duloxetine. Useful when depression is accompanied by neuropathic or chronic pain.
+- Atypical Antidepressants: E.g., bupropion (norepinephrine-dopamine reuptake inhibitor, minimal sexual side effects), mirtazapine (sedating, promotes sleep and appetite).
+- Crucial Clinical Considerations: Antidepressant medications typically require 2 to 4 weeks (sometimes up to 6 weeks) before therapeutic benefits become evident. Treatment should be continued for at least 6 to 9 months following symptom remission to prevent relapse. Discontinuation should occur via gradual tapering under medical supervision to avoid antidepressant discontinuation syndrome.
+
+3. Lifestyle Interventions:
+- Regular aerobic exercise (150 minutes/week) stimulates neurogenesis and brain-derived neurotrophic factor (BDNF).
+- Healthy dietary habits (Mediterranean pattern) and adequate sleep hygiene.
+- Social connectedness and peer support groups.
+
+CRISIS SUPPORT AND SUICIDE PREVENTION
+If you or someone you know is experiencing acute suicidal thoughts, overwhelming distress, or self-harm impulses:
+- In the UK: Call 111 (NHS Mental Health) or Call Samaritans on 116 123 (free 24/7).
+- In the US/Canada: Call or Text 988 (Suicide & Crisis Lifeline, free 24/7).
+- In emergencies or immediate physical danger: Call 999 or 911 or go directly to the nearest hospital emergency department.
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+

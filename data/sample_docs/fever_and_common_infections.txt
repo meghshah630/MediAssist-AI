@@ -1,0 +1,74 @@
+FEVER AND COMMON INFECTIONS
+
+Source: Educational content based on NHS/CDC guidelines
+
+OVERVIEW
+Fever is a temporary rise in body temperature, usually caused by an underlying illness. It is a natural immune response that helps the body fight infection by creating an environment less hospitable to bacteria and viruses. Normal body temperature ranges from 36.1 to 37.2 degrees Celsius (97 to 99 degrees Fahrenheit). A low-grade fever is generally defined as 37.3 to 38 degrees Celsius (99 to 100.4 degrees Fahrenheit). A true fever is defined as a temperature of 38.3 degrees Celsius (101 degrees Fahrenheit) or higher in adults.
+
+Fever itself is a symptom, not a disease. Identifying the underlying cause is key to appropriate treatment. Most fevers in adults are caused by viral infections and resolve on their own within a few days with supportive care. However, some fevers indicate serious bacterial infections or other conditions requiring prompt medical attention.
+
+TEMPERATURE THRESHOLDS
+- Normal: 36.1-37.2 degrees C (97-99 degrees F)
+- Low-grade fever: 37.3-38.0 degrees C (99-100.4 degrees F)
+- Fever: 38.3 degrees C (101 degrees F) or higher
+- High fever: 39.4 degrees C (103 degrees F) or higher - seek medical attention in adults
+- Hyperpyrexia: 41.5 degrees C (106.7 degrees F) or higher - medical emergency
+
+COMMON SYMPTOMS OF FEVER
+- Chills and shivering
+- Sweating and flushing
+- Headache
+- Muscle aches and joint pain
+- Loss of appetite
+- General weakness and fatigue
+- Mild dehydration
+- In children: irritability and crying
+
+COMMON CAUSES OF FEVER
+
+Viral Infections:
+- Influenza (flu): Caused by influenza A or B viruses. Symptoms include sudden-onset high fever (38-40 degrees C), severe muscle aches, headache, dry cough, and profound fatigue. Typically lasts 5-7 days. Antiviral oseltamivir (Tamiflu) can shorten duration if started within 48 hours of symptom onset.
+- Common cold: Caused by rhinovirus most often. Mild fever, runny nose, sore throat, and sneezing. Self-limiting in 7-10 days. No specific treatment needed.
+- COVID-19: Can cause fever, cough, fatigue, and loss of taste/smell. Follow current public health guidance.
+
+Bacterial Infections:
+- Urinary Tract Infection (UTI): Fever with burning urination, frequent urge to urinate, pelvic pain. Treated with antibiotics (e.g., trimethoprim or nitrofurantoin).
+- Sinusitis: Facial pain, pressure, thick nasal discharge lasting more than 10 days may indicate bacterial sinusitis requiring antibiotics.
+- Pneumonia: High fever, productive cough, chest pain, shortness of breath. Requires medical evaluation and often antibiotic treatment.
+- Strep throat: Sudden sore throat without runny nose, fever, swollen lymph nodes. Diagnosed with rapid antigen test; treated with penicillin.
+
+HOME MANAGEMENT OF FEVER
+1. Rest: Allow the body to direct energy toward fighting infection.
+2. Hydration: Drink plenty of water, clear broths, and oral rehydration solutions to replace fluids lost through sweating.
+3. Paracetamol (acetaminophen): 500-1000 mg every 4-6 hours (max 4g/day in adults) reduces fever and relieves discomfort.
+4. Ibuprofen: 200-400 mg every 6-8 hours with food (avoid in kidney disease, peptic ulcers, or if under 3 months old).
+5. Tepid sponging: Gently sponge with lukewarm (not cold) water to help reduce temperature.
+6. Avoid over-bundling: Light clothing and a comfortable room temperature help the body regulate heat.
+7. Do NOT give aspirin to children under 16 - risk of Reye syndrome.
+
+WHEN TO SEEK EMERGENCY CARE (RED FLAG SIGNS)
+Seek emergency help immediately if fever is accompanied by:
+- Stiff neck, severe headache, and sensitivity to light (possible meningitis)
+- Non-blanching rash (meningococcal disease)
+- Confusion, altered mental status, or loss of consciousness
+- Difficulty breathing or rapid breathing
+- Chest pain
+- Persistent vomiting
+- Febrile seizure (especially in children 6 months to 5 years)
+
+Also seek urgent care for:
+- Fever above 39.4 degrees C (103 degrees F) in adults not responding to treatment
+- Any fever in infants under 3 months (38 degrees C / 100.4 degrees F or higher)
+- Fever lasting more than 5 days in adults or 3 days in children
+- Fever in immunocompromised individuals (e.g., cancer patients, transplant recipients)
+
+DIAGNOSIS APPROACH
+Doctors will take a full history (onset, duration, associated symptoms, travel history, medications) and perform a physical examination. Investigations may include:
+- Full blood count (FBC/CBC): elevated white cell count suggests infection
+- C-reactive protein (CRP) and ESR: markers of inflammation
+- Blood cultures: if bacteremia or sepsis suspected
+- Urine dipstick and culture: for UTI
+- Chest X-ray: if pneumonia suspected
+- Throat swab or rapid antigen test: for strep throat or flu
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.

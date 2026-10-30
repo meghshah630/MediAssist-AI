@@ -1,0 +1,114 @@
+ASTHMA – TRIGGERS, SYMPTOMS, TREATMENTS, AND EMERGENCY MANAGEMENT
+
+OVERVIEW
+Asthma is a chronic inflammatory disease of the airways characterised by variable and recurring symptoms, reversible airflow obstruction, and bronchospasm. It affects people of all ages and is one of the most common chronic diseases globally, affecting an estimated 300 million individuals worldwide. The fundamental abnormality is hyperresponsiveness of the airways to a variety of stimuli, leading to bronchoconstriction, mucosal oedema, and increased mucus production.
+
+PATHOPHYSIOLOGY
+Asthma involves both immediate (Type I, IgE-mediated) and late-phase inflammatory responses. Key features include:
+- Mast cell activation and degranulation releasing histamine, leukotrienes, and prostaglandins
+- Eosinophilic inflammation in the airway wall
+- CD4+ T-lymphocyte (Th2) predominant immune response
+- Structural changes (airway remodelling) with chronic disease: smooth muscle hypertrophy, subepithelial fibrosis, goblet cell hyperplasia
+
+TRIGGERS
+Common asthma triggers vary among individuals:
+Allergens:
+- House dust mites (Dermatophagoides species)
+- Pet dander (cats, dogs)
+- Cockroach allergens
+- Pollens (tree, grass, weed)
+- Moulds and fungi
+
+Irritants and Environmental Factors:
+- Tobacco smoke (active and passive)
+- Air pollution (particulate matter, ozone, nitrogen dioxide)
+- Strong odours, chemicals, and fumes
+- Cold air and changes in weather
+- Exercise (exercise-induced bronchoconstriction)
+
+Infections:
+- Respiratory viral infections (rhinovirus, RSV, influenza)
+- Bacterial sinusitis
+
+Other Triggers:
+- NSAIDs and aspirin (in aspirin-exacerbated respiratory disease, affecting ~10% of asthmatics)
+- Beta-blockers (including eye drops)
+- Sulfites in food and wine
+- Gastro-oesophageal reflux disease (GERD)
+- Emotional stress and anxiety
+- Menstrual cycle (in some women)
+- Occupational exposures (isocyanates, flour dust, latex, wood dust)
+
+SYMPTOMS
+- Wheezing (high-pitched whistling sound during breathing, especially on expiration)
+- Shortness of breath (dyspnoea), particularly at night and in the early morning
+- Chest tightness or pressure
+- Persistent cough, often dry and worse at night
+- Increased mucus production
+- Difficulty completing sentences due to breathlessness during severe attacks
+
+DIAGNOSIS
+- Spirometry: FEV1/FVC ratio < 0.7, with ≥ 12% and 200 mL improvement after bronchodilator
+- Peak Expiratory Flow (PEF) monitoring: Diurnal variability > 20% supports diagnosis
+- Bronchial provocation testing (methacholine challenge) for borderline cases
+- Exhaled nitric oxide (FeNO) measurement: Elevated (> 25 ppb) suggests eosinophilic inflammation
+- Allergy testing: Skin prick test or specific IgE blood tests
+
+SEVERITY CLASSIFICATION
+- Intermittent: Symptoms ≤ 2 days/week, nighttime awakenings ≤ 2 per month
+- Mild Persistent: Symptoms > 2 days/week but not daily
+- Moderate Persistent: Daily symptoms, nighttime symptoms > 1 per week
+- Severe Persistent: Symptoms throughout the day, frequent nighttime symptoms, limitation of activity
+
+TREATMENT
+
+Reliever (Rescue) Medications:
+- Short-acting beta-2 agonists (SABAs): Salbutamol (Albuterol), Terbutaline – rapid-onset bronchodilators for acute symptom relief. Use PRN. Overuse (> 2 cannisters/month) indicates poor control.
+- Short-acting anticholinergics: Ipratropium bromide – added in acute exacerbations.
+
+Controller (Preventer) Medications:
+- Inhaled Corticosteroids (ICS): Beclomethasone, Budesonide, Fluticasone – most effective anti-inflammatory agents; cornerstone of persistent asthma treatment. Reduce exacerbations, hospitalisations, and mortality. Rinse mouth after use to prevent oral candidiasis.
+- Long-Acting Beta-2 Agonists (LABAs): Salmeterol, Formoterol – always combined with ICS (never as monotherapy due to safety concerns).
+- Leukotriene Receptor Antagonists (LTRAs): Montelukast, Zafirlukast – oral anti-inflammatory; especially useful for aspirin-sensitive asthma and allergic rhinitis comorbidity.
+- Long-Acting Anticholinergics (LAMAs): Tiotropium – add-on therapy for inadequately controlled asthma.
+- Theophylline: Bronchodilator and mild anti-inflammatory; narrow therapeutic window; requires serum level monitoring.
+
+Biologic Therapies (for severe uncontrolled asthma):
+- Anti-IgE: Omalizumab (Xolair) – for allergic asthma with elevated IgE
+- Anti-IL-5: Mepolizumab (Nucala), Reslizumab – for eosinophilic asthma
+- Anti-IL-4/IL-13: Dupilumab (Dupixent) – for type 2 inflammatory asthma
+- Anti-TSLP: Tezepelumab – for severe, uncontrolled asthma regardless of phenotype
+
+Inhaler Technique and Devices:
+- Metered-Dose Inhalers (MDIs): Require co-ordinated inhalation; use with a spacer for better drug delivery
+- Dry Powder Inhalers (DPIs): Breath-actuated; do not require co-ordination
+- Soft Mist Inhalers (SMIs): Lower velocity, easier to use than MDIs
+
+STEPWISE MANAGEMENT (GINA Guidelines)
+Step 1: PRN low-dose ICS-formoterol
+Step 2: Low-dose ICS + PRN SABA
+Step 3: Low-dose ICS-LABA
+Step 4: Medium-dose ICS-LABA
+Step 5: High-dose ICS-LABA, biologics, or bronchial thermoplasty
+
+EMERGENCY SIGNS AND ACUTE MANAGEMENT
+Signs of a severe attack requiring emergency treatment:
+- Unable to complete sentences
+- Respiratory rate > 25 breaths/minute
+- Heart rate > 110 beats/minute
+- PEF < 50% predicted or best
+- Oxygen saturation < 92%
+- Silent chest (absent breath sounds – very severe)
+- Cyanosis, exhaustion, confusion
+
+Emergency management:
+1. Call emergency services immediately (999/911)
+2. Sit patient upright
+3. Administer high-dose SABA (4–8 puffs via spacer or nebuliser)
+4. Give systemic corticosteroids (Prednisolone 40–50 mg oral or IV hydrocortisone)
+5. Controlled supplemental oxygen to maintain SpO2 94–98%
+6. Consider IV magnesium sulphate (2g IV over 20 minutes)
+7. Monitor closely; consider ICU admission for life-threatening attacks
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+

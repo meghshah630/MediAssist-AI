@@ -1,0 +1,89 @@
+TYPE 2 DIABETES MELLITUS – PATHOPHYSIOLOGY, MANAGEMENT, AND MONITORING
+
+INTRODUCTION
+Type 2 diabetes mellitus (T2DM) is a chronic metabolic disorder characterised by insulin resistance, progressive beta-cell dysfunction, and relative insulin deficiency. It accounts for approximately 90–95% of all diabetes cases worldwide. Unlike Type 1 diabetes, in which the immune system destroys insulin-producing cells, Type 2 diabetes develops when cells fail to respond adequately to insulin and the pancreas cannot produce enough insulin to compensate.
+
+PATHOPHYSIOLOGY
+The development of T2DM involves several interconnected mechanisms:
+1. Insulin Resistance: Skeletal muscle, liver, and adipose tissue become unresponsive to insulin, impairing glucose uptake and utilisation.
+2. Beta-cell Failure: Pancreatic beta cells initially compensate by producing more insulin, but over time they become exhausted and insulin secretion declines.
+3. Hepatic Glucose Overproduction: The liver continues to produce glucose despite elevated blood glucose levels due to impaired insulin signalling.
+4. Incretin Defect: Reduced GLP-1 (glucagon-like peptide-1) effect impairs insulin secretion in response to meals.
+5. Increased Glucagon: Alpha cells secrete excessive glucagon, worsening hyperglycaemia.
+6. Increased Renal Glucose Reabsorption: SGLT2 transporters in kidneys reabsorb more glucose than normal.
+
+RISK FACTORS
+- Obesity (BMI ≥ 30 kg/m²), particularly central/abdominal obesity
+- Physical inactivity
+- Family history of diabetes (first-degree relative)
+- Age ≥ 45 years (risk increases with age)
+- Pre-diabetes (impaired fasting glucose or impaired glucose tolerance)
+- Gestational diabetes history
+- Polycystic ovary syndrome (PCOS)
+- Ethnic background (higher prevalence in South Asian, African, Hispanic populations)
+- Cardiovascular disease history
+- Sleep disorders (sleep apnea)
+- Certain medications (corticosteroids, atypical antipsychotics, thiazide diuretics)
+
+SYMPTOMS AND DIAGNOSIS
+Early Type 2 diabetes is often asymptomatic and discovered incidentally on routine screening. Symptoms when present include:
+- Polyuria (frequent urination)
+- Polydipsia (excessive thirst)
+- Polyphagia (excessive hunger)
+- Unexplained weight loss
+- Fatigue and weakness
+- Blurred vision
+- Slow-healing wounds and frequent infections
+- Tingling or numbness in hands and feet (early neuropathy)
+
+Diagnostic criteria (American Diabetes Association):
+- Fasting plasma glucose ≥ 7.0 mmol/L (126 mg/dL) on two occasions
+- 2-hour plasma glucose ≥ 11.1 mmol/L (200 mg/dL) during OGTT
+- HbA1c ≥ 6.5% (48 mmol/mol)
+- Random plasma glucose ≥ 11.1 mmol/L with symptoms
+
+TREATMENT
+
+1. Diet and Lifestyle
+- Caloric restriction aiming for 5–10% weight loss
+- Low-glycaemic-index, high-fibre diet
+- Reduced saturated and trans fat intake
+- Moderate carbohydrate intake distributed evenly across meals
+- Regular physical activity: 150+ minutes/week of moderate aerobic exercise plus resistance training
+- Smoking cessation
+- Alcohol moderation
+
+2. Oral Medications
+- Metformin (first-line): Reduces hepatic glucose production; improves insulin sensitivity; weight-neutral or promotes modest weight loss. Contraindicated with eGFR < 30 mL/min/1.73 m². Common side effects: GI upset, lactic acidosis (rare).
+- SGLT2 Inhibitors (e.g., Empagliflozin, Dapagliflozin, Canagliflozin): Block renal glucose reabsorption; reduce weight and blood pressure; cardio-protective and renoprotective benefits. Risk of genital mycotic infections and diabetic ketoacidosis.
+- GLP-1 Receptor Agonists (e.g., Liraglutide, Semaglutide, Exenatide): Stimulate insulin secretion; suppress glucagon; delay gastric emptying; promote weight loss; cardiovascular benefits. Administered by injection (daily or weekly).
+- DPP-4 Inhibitors (e.g., Sitagliptin, Saxagliptin, Linagliptin): Weight-neutral, well-tolerated; inhibit breakdown of GLP-1.
+- Sulfonylureas (e.g., Glibenclamide, Glipizide, Glimepiride): Stimulate insulin secretion; risk of hypoglycaemia and weight gain.
+- Thiazolidinediones / Glitazones (e.g., Pioglitazone): Improve insulin sensitivity; risk of fluid retention and fractures.
+- Alpha-glucosidase inhibitors (e.g., Acarbose): Delay carbohydrate absorption; modest efficacy; GI side effects common.
+
+3. Insulin Therapy
+Indicated when oral agents fail to achieve target glycaemic control. Types:
+- Basal insulin (e.g., Glargine, Detemir, Degludec): Once-daily long-acting insulin.
+- Rapid-acting insulin (e.g., Lispro, Aspart): Used at mealtimes.
+- Pre-mixed formulations: Combine intermediate and rapid-acting insulins.
+- Insulin pumps: Continuous subcutaneous infusion for better control.
+
+TARGET GLYCAEMIC GOALS
+- HbA1c < 7% (53 mmol/mol) for most adults
+- Fasting blood glucose: 4.4–7.2 mmol/L (80–130 mg/dL)
+- Post-meal blood glucose (2 hours): < 10 mmol/L (< 180 mg/dL)
+- More relaxed targets (HbA1c 7.5–8%) for frail elderly, frequent hypoglycaemia, or limited life expectancy.
+
+MONITORING
+- Self-monitoring of blood glucose (SMBG): Frequency depends on therapy; essential for insulin users.
+- HbA1c: Every 3 months until stable, then every 6 months.
+- Annual screening: Eyes (retinopathy), kidneys (eGFR, urine albumin-creatinine ratio), feet (neuropathy, peripheral pulses), blood pressure, lipids, BMI.
+
+COMPLICATIONS
+- Microvascular: Diabetic retinopathy (leading cause of blindness in working-age adults), nephropathy (leading cause of end-stage renal disease), peripheral and autonomic neuropathy.
+- Macrovascular: Coronary artery disease, stroke, peripheral arterial disease.
+- Other: Diabetic foot ulcers, Charcot arthropathy, sexual dysfunction, depression.
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+

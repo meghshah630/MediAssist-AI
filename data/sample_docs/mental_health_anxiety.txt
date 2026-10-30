@@ -1,0 +1,103 @@
+MENTAL HEALTH – GENERALISED ANXIETY DISORDER (GAD), CBT, AND TREATMENT
+
+OVERVIEW
+Anxiety disorders are the most prevalent mental health conditions worldwide, affecting approximately 264 million people globally. Generalised Anxiety Disorder (GAD) is characterised by chronic, excessive, and uncontrollable worry about multiple aspects of daily life, accompanied by physical symptoms of anxiety. It is more than the normal anxiety everyone experiences; it is persistent, interferes with daily functioning, and is difficult to control.
+
+GENERALISED ANXIETY DISORDER (GAD)
+
+Diagnostic Criteria (DSM-5):
+- Excessive anxiety and worry occurring more days than not for at least 6 months about multiple events or activities
+- The person finds it difficult to control the worry
+- Associated with three or more of the following (only one required in children):
+  1. Restlessness or feeling keyed up or on edge
+  2. Being easily fatigued
+  3. Difficulty concentrating or mind going blank
+  4. Irritability
+  5. Muscle tension
+  6. Sleep disturbance (trouble falling or staying asleep, or restless/unsatisfying sleep)
+- The anxiety, worry, or physical symptoms cause significant distress or impairment in social, occupational, or other important areas of functioning
+- Not attributable to substances, another medical condition, or better explained by another mental disorder
+
+Prevalence and Demographics:
+- Lifetime prevalence: approximately 5.7% in the general population
+- Female-to-male ratio: approximately 2:1
+- Often co-occurs with depression, other anxiety disorders, and physical health conditions
+- Typical onset in young adulthood, but can begin at any age
+
+Physical Symptoms of Anxiety:
+- Rapid heartbeat (tachycardia) and palpitations
+- Sweating and trembling or shaking
+- Shortness of breath and chest tightness
+- Dizziness, lightheadedness, or fainting
+- Gastrointestinal symptoms (nausea, diarrhoea, abdominal discomfort, IBS)
+- Headaches and migraines
+- Muscle tension, aches, and soreness
+- Dry mouth
+- Difficulty swallowing
+- Frequent urination
+
+COGNITIVE BEHAVIOURAL THERAPY (CBT)
+
+CBT is the gold-standard psychological treatment for GAD and other anxiety disorders, supported by the strongest evidence base of any psychotherapy approach.
+
+Core Principles:
+- Based on the cognitive model: thoughts, feelings, physical sensations, and behaviours are interconnected
+- Maladaptive thought patterns (cognitive distortions) perpetuate anxiety
+- Changing thinking patterns and behaviours can improve emotional wellbeing
+
+CBT Techniques for Anxiety:
+1. Psychoeducation: Understanding the anxiety response (fight-or-flight), normalising symptoms
+2. Cognitive Restructuring: Identifying and challenging negative automatic thoughts, catastrophising, and overestimation of threat; thought records and Socratic questioning
+3. Behavioural Experiments: Testing feared outcomes to disconfirm catastrophic predictions
+4. Worry Time: Scheduling a dedicated time for worry to reduce rumination throughout the day
+5. Stimulus Control: Limiting worry to specific times and places
+6. Relaxation Techniques:
+   - Progressive muscle relaxation (PMR)
+   - Diaphragmatic (belly) breathing exercises
+   - Grounding techniques (5-4-3-2-1 senses exercise)
+7. Mindfulness-Based approaches: Acceptance and Defusion (ACT elements); observing thoughts without judgment
+8. Problem-Solving: Distinguishing between solvable and unsolvable worries; action planning for real concerns
+9. Sleep Hygiene: Addressing sleep disturbances common in GAD
+10. Graded Exposure: Gradually facing feared situations to reduce avoidance and sensitisation
+
+Format: CBT is typically delivered in 12–20 weekly 50-minute sessions. Stepped care models start with guided self-help or digital CBT (apps such as Headspace, Woebot, FearFighter) for mild-moderate presentations, escalating to individual or group CBT.
+
+Effectiveness: Meta-analyses show CBT achieves response rates of 60–70% in GAD, with durable long-term outcomes.
+
+PHARMACOLOGICAL TREATMENT
+
+First-Line Medications:
+- SSRIs (Selective Serotonin Reuptake Inhibitors): Sertraline (Zoloft), Escitalopram (Lexapro), Paroxetine – increase synaptic serotonin; effective and well-tolerated. Common side effects: nausea, sexual dysfunction, insomnia, weight changes. Onset of therapeutic effect: 4–6 weeks.
+- SNRIs (Serotonin-Norepinephrine Reuptake Inhibitors): Venlafaxine (Effexor), Duloxetine (Cymbalta) – dual mechanism; also beneficial for co-occurring depression and physical pain symptoms.
+
+Second-Line Options:
+- Buspirone: Non-benzodiazepine anxiolytic; non-addictive; particularly effective for GAD; takes 2–4 weeks to work; well-tolerated.
+- Pregabalin (Lyrica): GABAergic agent; fast-acting; evidence for GAD, particularly in Europe; potential for abuse.
+- Hydroxyzine: Antihistamine with anxiolytic properties; useful for short-term relief.
+
+Use with Caution:
+- Benzodiazepines (e.g., Diazepam, Lorazepam, Alprazolam): Rapid but short-term anxiolytic effect; NOT recommended for long-term use in GAD due to tolerance, dependence, cognitive impairment, and withdrawal risk. Reserve for short-term crisis management only (< 2–4 weeks). Addictive potential is significant.
+- Beta-Blockers (Propranolol): Useful for situational anxiety (performance anxiety) to manage physical symptoms; no effect on cognitive symptoms.
+- TCAs (Tricyclic Antidepressants): Imipramine – historically used; more side effects than SSRIs.
+
+LIFESTYLE AND COMPLEMENTARY APPROACHES
+- Regular aerobic exercise: Reduces anxiety symptoms (equivalent to moderate antidepressant effect)
+- Mindfulness meditation (MBSR – Mindfulness-Based Stress Reduction): 8-week structured programme
+- Adequate sleep (7–9 hours): Sleep deprivation worsens anxiety
+- Limiting caffeine and alcohol
+- Social support and peer groups
+- Yoga, tai chi, and other mind-body practices
+- Dietary factors: Omega-3 fatty acids, magnesium-rich foods
+- Journalling and gratitude practices
+
+WHEN TO SEEK HELP
+Seek professional support if anxiety:
+- Persists for weeks to months without improvement
+- Significantly impairs work, relationships, or daily activities
+- Is accompanied by thoughts of self-harm or hopelessness
+- Involves substance use as a coping mechanism
+
+In a mental health crisis, contact emergency services (999/911), a crisis line (e.g., Samaritans: 116 123 in the UK), or go to the nearest emergency department.
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+

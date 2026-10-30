@@ -1,0 +1,51 @@
+COMMON RESPIRATORY INFECTIONS
+
+Source: Educational content based on CDC, WHO, and NICE guidelines
+
+OVERVIEW
+Respiratory tract infections are among the most common reasons individuals seek medical advice worldwide. They are divided anatomically into Upper Respiratory Tract Infections (URTIs), affecting the nasal passages, sinuses, pharynx, and larynx; and Lower Respiratory Tract Infections (LRTIs), affecting the trachea, bronchi, bronchioles, and pulmonary alveoli. Distinguishing between viral and bacterial etiologies is crucial to prevent unnecessary antibiotic use.
+
+COMMON RESPIRATORY CONDITIONS
+
+1. The Common Cold (Viral Rhinitis):
+- Etiology: Primarily Rhinoviruses (30-50% of cases), coronaviruses, adenoviruses, and enteroviruses.
+- Symptoms: Mild gradual onset, runny or congested nose, sneezing, sore or scratchy throat, low-grade fever (uncommon in adults), and mild dry cough.
+- Duration: Typically self-limiting within 7 to 10 days.
+- Management: Purely supportive. Adequate rest, oral hydration, warm saline nasal rinses, paracetamol or ibuprofen for aches and discomfort, and short-term oral or topical decongestants (limit topical decongestants like oxymetazoline to max 3-5 days to avoid rebound congestion / rhinitis medicamentosa). Crucial note: Antibiotics are completely ineffective against viral colds.
+
+2. Influenza (The Flu):
+- Etiology: Influenza A and B viruses.
+- Symptoms: Characterized by sudden, abrupt onset of high fever (38 to 40 degrees C / 100.4 to 104 degrees F), intense myalgia (muscle aches), severe headache, prostration and fatigue, dry cough, and sore throat. Unlike the common cold, flu onset is rapid and systemic symptoms predominate.
+- Complications: Secondary bacterial pneumonia (frequently caused by Streptococcus pneumoniae or Staphylococcus aureus), myocarditis, and worsening of underlying asthma, COPD, or heart failure.
+- Treatment: Supportive care; antiviral therapy with neuraminidase inhibitors (e.g., oral oseltamivir / Tamiflu) or endonuclease inhibitors (baloxavir) is most beneficial when started within 48 hours of symptom onset in high-risk patients (elderly, pregnant, immunocompromised, chronic pulmonary disease).
+
+3. Acute Bronchitis:
+- Etiology: More than 90% of cases are viral (influenza, parainfluenza, RSV, rhinovirus).
+- Symptoms: Persistent cough lasting 1 to 3 weeks, often producing clear, white, or yellowish-green sputum. Crucial note: Purulent or discolored sputum does not indicate bacterial infection; it reflects sloughed airway epithelial cells and inflammatory cells.
+- Treatment: Supportive therapy (honey for adults and children over 1 year, hydration, inhaled bronchodilators if wheezing is present). Antibiotics are not routinely recommended for acute bronchitis in previously healthy adults.
+
+4. Community-Acquired Pneumonia (CAP):
+Infection of the pulmonary parenchyma with consolidation of alveoli.
+- Etiology: Bacterial (Streptococcus pneumoniae most common, Haemophilus influenzae, Mycoplasma pneumoniae, Legionella) or viral (influenza, RSV, SARS-CoV-2).
+- Symptoms: High fever, chills and rigors, productive cough with rust-colored or purulent sputum, pleuritic chest pain (sharp pain worsened by deep breathing or coughing), shortness of breath, and crackles/rales on auscultation.
+- Diagnostic Tools: Chest X-ray demonstrating pulmonary infiltrates or consolidation, pulse oximetry, sputum culture, and inflammatory markers (CRP, procalcitonin).
+- Clinical Severity: Assessed using the CURB-65 score (Confusion, Urea > 7 mmol/L, Respiratory rate >= 30, Blood pressure < 90/60, Age >= 65) to guide outpatient vs. inpatient admission.
+- Treatment: Targeted antibiotics (e.g., amoxicillin or macrolides for mild outpatient; co-amoxiclav plus macrolide or respiratory fluoroquinolones for severe inpatient).
+
+5. Acute Sinusitis (Rhinosinusitis):
+Inflammation of the paranasal sinuses. Most cases begin as viral. Bacterial sinusitis is suspected if symptoms last longer than 10 days without improvement, or if "double sickening" occurs (worsening after initial improvement). Characterized by facial pain, pressure, purulent nasal discharge, and dental pain.
+
+6. Pharyngitis / Strep Throat:
+Acute sore throat. Viral causes predominate. Group A Streptococcus (GAS) accounts for 5-15% of adult pharyngitis. The Centor Criteria (tonsillar exudate, tender anterior cervical lymphadenopathy, fever > 38 C, absence of cough) guide whether a rapid antigen strep test is indicated. Confirmed bacterial strep is treated with penicillin V or amoxicillin to prevent acute rheumatic fever.
+
+RED FLAG EMERGENCY WARNING SIGNS
+Seek emergency hospital care immediately if respiratory symptoms include:
+- Severe shortness of breath, inability to speak in full sentences, or gasping
+- Cyanosis (bluish tint to lips, tongue, or nail beds indicating severe hypoxemia)
+- Oxygen saturation dropping below 92% (or below 88% in chronic hypercapnic COPD)
+- Coughing up significant amounts of fresh blood (hemoptysis)
+- New onset of acute confusion, lethargy, or altered mental status
+- Severe persistent chest pain or hemodynamic instability (systolic BP < 90 mmHg)
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+

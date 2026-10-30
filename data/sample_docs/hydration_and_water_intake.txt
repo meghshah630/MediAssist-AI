@@ -1,0 +1,80 @@
+HYDRATION AND WATER INTAKE
+
+Source: Educational content based on EFSA (European Food Safety Authority), IOM (Institute of Medicine), and NHS guidelines
+
+OVERVIEW
+Water is an essential nutrient and the most abundant substance in the human body, comprising approximately 60% of total body weight in adults. Every physiological process depends on adequate hydration, including temperature regulation, nutrient transport, joint lubrication, digestion, kidney waste filtration, and cognitive function. Mild dehydration (as little as 1-2% of body weight loss in fluid) measurably impairs physical performance, cognitive function, mood, and concentration before subjective thirst is even perceived.
+
+DAILY WATER INTAKE RECOMMENDATIONS
+Total water intake includes both fluids consumed as beverages and water contained naturally within solid foods (approximately 20% of total water intake):
+- Adult Men (19-50 years): Approximately 3.7 litres (125 oz or ~15.5 cups) total water per day from all sources, equivalent to approximately 2.5 to 3.0 litres from beverages alone.
+- Adult Women (19-50 years): Approximately 2.7 litres (91 oz or ~11.5 cups) total water per day from all sources, equivalent to approximately 2.0 litres from beverages alone.
+- Pregnant Women: Additional 300 to 500 mL above baseline requirements.
+- Breastfeeding Women: Additional 400 to 700 mL above baseline.
+- Note: Individual requirements vary significantly based on ambient temperature, humidity, physical activity level, body size, and health status. The popular rule of "8 glasses (8 oz each) per day" is a convenient approximation, not a universal physiological prescription.
+
+HYDRATION STATUS ASSESSMENT
+Urine color is the simplest, most practical self-assessment tool for monitoring daily hydration status:
+- Pale Straw Yellow (Light Yellow): Optimal hydration - target daily urine color.
+- Dark Yellow to Amber: Mild to moderate dehydration; increase fluid intake immediately.
+- Dark Amber or Brown: Significant dehydration or potentially kidney/liver disease; seek medical assessment.
+- Colorless (Clear): May indicate overhydration (excessive intake).
+- Additional Indicators: Urination frequency (well-hydrated adults typically urinate 6-8 times per day); urine output greater than 1.5 litres per day indicates adequate hydration.
+
+SIGNS AND SYMPTOMS OF DEHYDRATION
+Mild Dehydration (1-2% body weight loss in fluids):
+- Thirst (note: thirst is already a sign of mild dehydration, not prevention)
+- Dry mouth and lips
+- Headache and difficulty concentrating
+- Slightly dark urine
+- Reduced urine frequency
+
+Moderate Dehydration (3-5% fluid loss):
+- Decreased urine output with dark color
+- Persistent headache and dizziness
+- Fatigue and significantly reduced physical performance
+- Dry skin with reduced elasticity (skin turgour)
+- Muscle cramps
+
+Severe Dehydration (over 5-8% fluid loss - Medical Emergency):
+- Rapid, weak pulse and tachycardia
+- Hypotension and orthostatic dizziness or syncope
+- Sunken eyes, extreme dry mouth
+- Severe confusion, delirium, or loss of consciousness
+- Cessation of urination
+- Require intravenous fluid resuscitation; call emergency services immediately.
+
+HYDRATION FOR SPECIAL POPULATIONS
+
+1. Children and Infants:
+Children are more vulnerable to dehydration because of higher body surface area to volume ratios and greater dependence on caregivers. Signs of dehydration in infants include sunken fontanelle, no wet nappies for 8 hours, no tears when crying, and lethargy.
+
+2. Older Adults (65+ years):
+The subjective thirst perception diminishes with ageing due to reduced hypothalamic sensitivity, placing elderly individuals at high risk of silent dehydration. Older adults should consciously schedule regular fluid intake throughout the day rather than waiting for thirst. Dehydration in elderly patients is a leading contributor to delirium, urinary tract infections, falls, and hospital admission.
+
+3. Athletes and Physically Active Individuals:
+Exercise-induced sweat loss can range from 0.5 to 2.5 litres per hour depending on exercise intensity, environmental temperature, and individual sweat rates. Sports hydration strategy:
+- Pre-Exercise: Drink approximately 500 mL of water 2 hours before activity.
+- During Exercise: Drink 150-250 mL of fluid every 15-20 minutes during prolonged exercise.
+- Post-Exercise: Replace 1.5 litres of fluid for every 1 kg of body weight lost during exercise.
+- Electrolyte Drinks (isotonic): Beneficial for exercise lasting longer than 60-90 minutes or during high heat conditions to replace sodium and potassium lost in sweat. Oral rehydration solutions (ORS), containing 6 teaspoons of sugar and 0.5 teaspoon of salt per 1 litre of clean water, are effective for replacing both fluid and electrolytes.
+
+DEHYDRATION DURING ILLNESS
+During gastrointestinal illnesses involving vomiting and diarrhoea, fluid and electrolyte losses are accelerated:
+- Oral Rehydration Solutions (ORS) are preferred over plain water alone as they replace both fluids and essential electrolytes (sodium, glucose, potassium) and are recommended by WHO for management of mild-to-moderate dehydration caused by acute gastroenteritis.
+- Small, frequent sips of ORS should be given even when vomiting is present.
+- Intravenous hydration becomes necessary if the patient cannot retain oral fluids, if there are signs of severe dehydration, or if the patient is a young infant or frail elderly person.
+
+OVERHYDRATION AND HYPONATREMIA
+While uncommon in everyday life, excessive water intake (particularly in endurance athletes drinking very large volumes of plain water over prolonged periods) can dilute blood sodium levels, causing hyponatremia.
+- Symptoms of Hyponatremia: Nausea, headache, confusion, seizures, and in severe cases, coma and death.
+- Prevention: Use electrolyte-containing drinks rather than plain water alone during very prolonged exercise events; do not drink beyond thirst during endurance races.
+
+EFFECTS OF COMMON BEVERAGES ON HYDRATION
+- Plain Water: The optimal hydration beverage with no calories.
+- Tea and Coffee: Despite containing caffeine (a mild diuretic), moderate tea and coffee consumption (up to 3-4 cups per day) contributes positively to overall daily fluid intake in most healthy adults.
+- Alcohol: Acts as a significant antidiuretic hormone (ADH) suppressant, causing increased urination and net dehydration. Should not be used as a primary fluid source for hydration.
+- Sugar-Sweetened Beverages: Provide hydration but contribute excess calories and risk of metabolic harm; not recommended as primary hydration sources.
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+

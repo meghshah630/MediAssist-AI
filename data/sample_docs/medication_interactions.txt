@@ -1,0 +1,117 @@
+MEDICATION INTERACTIONS – DRUG SAFETY, NSAIDs, AND ANTICOAGULANTS
+
+OVERVIEW
+Drug-drug interactions (DDIs) occur when one medication affects the activity of another when both are taken simultaneously. These interactions can result in reduced therapeutic efficacy, increased toxicity, or unpredictable effects. The clinical significance of an interaction depends on the therapeutic index of the drugs involved, the patient's individual characteristics, and the severity of potential outcomes.
+
+Drug interactions occur via several mechanisms:
+1. Pharmacokinetic Interactions: Affect drug absorption, distribution, metabolism, or excretion (ADME)
+2. Pharmacodynamic Interactions: Drugs with similar or opposing effects act additively, synergistically, or antagonistically
+3. Pharmaceutical Interactions: Physical or chemical incompatibility in the same preparation
+
+CYTOCHROME P450 (CYP) ENZYME INTERACTIONS
+The liver's CYP450 enzyme system metabolises approximately 70–80% of marketed drugs. Interactions arise from:
+- Enzyme Inhibition: One drug inhibits metabolism of another, raising its blood levels (risk of toxicity)
+- Enzyme Induction: One drug accelerates metabolism of another, lowering its blood levels (risk of treatment failure)
+
+Key CYP enzymes and important interactions:
+CYP3A4 (metabolises ~50% of drugs):
+- Inhibitors: Clarithromycin, ketoconazole, itraconazole, grapefruit juice, ritonavir, diltiazem, verapamil
+- Inducers: Rifampicin, carbamazepine, phenytoin, St John's Wort, phenobarbital
+- Substrates: Statins (simvastatin, lovastatin – DO NOT combine with strong inhibitors; risk of myopathy/rhabdomyolysis), cyclosporin, tacrolimus, warfarin, midazolam, fentanyl
+
+CYP2D6:
+- Inhibitors: Fluoxetine, paroxetine, bupropion, amiodarone
+- Substrates: Codeine (pro-drug – must be converted to morphine; ultra-rapid metabolisers risk toxicity), tramadol, tamoxifen, metoprolol, tricyclic antidepressants
+
+CYP2C9:
+- Inhibitors: Fluconazole, amiodarone, metronidazole
+- Substrates: Warfarin (S-warfarin), NSAIDs, phenytoin, sulfonylureas
+
+NSAID INTERACTIONS
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) include: Ibuprofen, Naproxen, Diclofenac, Aspirin (anti-inflammatory doses), Indometacin, Celecoxib, Meloxicam.
+
+NSAIDs + Anticoagulants (Warfarin, DOACs):
+- MAJOR RISK: Significantly increased bleeding risk, particularly gastrointestinal
+- Mechanism: NSAIDs inhibit platelet function + anticoagulant effect → additive haemorrhagic risk
+- NSAIDs can also displace warfarin from plasma proteins, raising free warfarin levels
+- Avoid if possible; if necessary, use PPIs (proton pump inhibitors) for gastroprotection and monitor closely
+
+NSAIDs + Antihypertensives:
+- Reduce efficacy of ACE inhibitors, ARBs, beta-blockers, and diuretics by 3–5 mmHg increase in blood pressure
+- "Triple whammy" interaction: NSAIDs + ACE inhibitor/ARB + diuretic → acute kidney injury (AKI) risk
+
+NSAIDs + Lithium:
+- NSAIDs reduce lithium renal clearance → elevated lithium levels → risk of toxicity (tremor, confusion, renal damage)
+- Sulindac and Aspirin are less problematic than other NSAIDs
+
+NSAIDs + Methotrexate:
+- NSAIDs reduce methotrexate excretion → methotrexate toxicity (bone marrow suppression, mucositis)
+- Particularly dangerous with high-dose methotrexate (oncology dosing); use with caution even with rheumatological low doses
+
+NSAIDs + SSRIs/SNRIs:
+- Both independently increase GI bleeding risk; combination approximately triples the risk
+- Add PPI for gastroprotection in patients on both
+
+NSAIDs + Corticosteroids (e.g., Prednisolone, Dexamethasone):
+- Additive risk of peptic ulcer disease and GI bleeding
+- Combination should be avoided or closely monitored; prescribe PPI
+
+NSAIDs + Ciclosporin/Tacrolimus:
+- Increased nephrotoxicity risk; monitor renal function carefully
+
+ANTICOAGULANT INTERACTIONS
+
+Warfarin (Vitamin K Antagonist):
+Warfarin has a narrow therapeutic index (target INR 2.0–3.0 or 2.5–3.5) and is involved in hundreds of drug interactions.
+
+Drugs that INCREASE anticoagulant effect (bleeding risk):
+- Antibiotics: Metronidazole, fluconazole, ciprofloxacin, macrolides (via CYP2C9/CYP3A4 inhibition)
+- Cardiovascular: Amiodarone (profound potentiation; INR can double or triple), aspirin, clopidogrel
+- Anti-inflammatory: NSAIDs (see above)
+- GI: Omeprazole (modest CYP2C9 inhibition)
+- Herbal: Garlic, fish oil, vitamin E (high dose), cranberry juice
+
+Drugs that DECREASE anticoagulant effect (thrombotic risk):
+- Rifampicin (potent CYP inducer – INR may fall dramatically)
+- Carbamazepine, phenytoin, phenobarbital (anticonvulsants)
+- St John's Wort (herbal CYP inducer – up to 50% decrease in INR)
+- High vitamin K foods (leafy greens, broccoli) – counsel on consistent dietary intake, not avoidance
+
+DOACs – Direct Oral Anticoagulants:
+Apixaban, Rivaroxaban (Factor Xa inhibitors); Dabigatran (Direct thrombin inhibitor); Edoxaban
+
+Key DOAC Interactions:
+- P-glycoprotein (P-gp) inhibitors (e.g., Amiodarone, Verapamil, Dronedarone, Rifampicin): Affect DOAC levels significantly
+- Strong CYP3A4 inhibitors/inducers: Affect apixaban and rivaroxaban
+- Combined P-gp + CYP3A4 inhibitors (e.g., Ketoconazole, Itraconazole, Ritonavir): Avoid with rivaroxaban and apixaban
+- Antacids/PPIs: Dabigatran requires acid for dissolution; PPIs and H2 blockers reduce dabigatran absorption
+
+DOAC advantages over warfarin:
+- No routine INR monitoring
+- Fewer food interactions
+- Predictable pharmacokinetics
+- Fixed dosing
+
+DOAC reversal agents:
+- Idarucizumab (Praxbind): Reverses dabigatran (available in most hospitals)
+- Andexanet alfa (Ondexxya): Reverses apixaban and rivaroxaban
+- Ciraparantag: Under development (reverses all DOACs and heparins)
+
+OTHER IMPORTANT INTERACTIONS
+
+Serotonin Syndrome:
+Combining serotonergic agents can cause life-threatening serotonin toxicity. Implicated drug combinations:
+- SSRIs/SNRIs + MAOIs (contraindicated; 14-day washout required)
+- SSRIs + Tramadol (moderate serotonergic activity)
+- SSRIs + Triptans (sumatriptan, rizatriptan) – generally considered low risk but monitor
+- SSRIs + Linezolid (has weak MAOI activity)
+- SSRIs + Fentanyl (particularly at high doses)
+Symptoms: Agitation, tremor, hyperreflexia, diaphoresis, tachycardia, hyperthermia; severe cases may have rigidity, rhabdomyolysis, and multi-organ failure.
+
+QT Prolongation Risk:
+Many drugs prolong the QT interval and can cause torsades de pointes (TdP), a potentially fatal arrhythmia.
+Implicated drugs: Antipsychotics (haloperidol, quetiapine), antiarrhythmics (amiodarone, sotalol), antibiotics (azithromycin, clarithromycin, moxifloxacin), antihistamines (terfenadine – withdrawn), methadone, hydroxychloroquine.
+Combining multiple QT-prolonging drugs increases risk substantially. Check CredibleMeds database (Arizona CERT) before prescribing.
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+

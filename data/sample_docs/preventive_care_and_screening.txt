@@ -1,0 +1,54 @@
+PREVENTIVE CARE AND HEALTH SCREENING
+
+Source: Educational content based on USPSTF (US Preventive Services Task Force), CDC, and NHS guidelines
+
+OVERVIEW
+Preventive healthcare focuses on disease prevention, early detection, and health promotion rather than treating symptoms only after clinical disease has developed. Prevention is traditionally classified into three levels:
+1. Primary Prevention: Preventing disease before it occurs through immunization, smoking cessation, healthy nutrition, and regular exercise.
+2. Secondary Prevention: Identifying disease in its early, asymptomatic stages through screening tests so that treatment can be initiated promptly to halt progression (e.g., mammograms, colonoscopy, blood pressure checks).
+3. Tertiary Prevention: Managing established chronic diseases to prevent complications, disability, and loss of functional independence (e.g., glycemic control in diabetes, cardiac rehabilitation).
+
+AGE-BASED SCREENING GUIDELINES FOR ADULTS
+
+1. Cardiovascular and Metabolic Health:
+- Blood Pressure: Screening every 1 to 2 years for adults aged 18 to 39 with normal blood pressure (< 120/80 mmHg), and annually for adults aged 40 and older or those with risk factors (overweight, family history).
+- Lipid Profile (Cholesterol): Fasting or non-fasting lipid screening starting between ages 20 and 35 for men and 20 and 45 for women, repeated every 4 to 6 years in average-risk individuals to evaluate cardiovascular risk.
+- Type 2 Diabetes Screening: Fasting plasma glucose, HbA1c, or oral glucose tolerance test starting at age 35 for all adults who are overweight or obese, repeated at least every 3 years. Earlier screening is indicated for those with high-risk ethnic backgrounds or gestational diabetes history.
+
+2. Cancer Screenings:
+- Colorectal Cancer Screening: Recommended for all average-risk adults aged 45 to 75 years. Screening options include colonoscopy every 10 years, annual fecal immunochemical test (FIT), or stool DNA-FIT test every 3 years. Early detection allows removal of pre-cancerous polyps.
+- Breast Cancer Screening: Biennial screening mammography is recommended for women aged 40 to 74 years to detect early-stage breast lesions before palpable masses develop.
+- Cervical Cancer Screening: Cervical cytology (Pap smear) alone every 3 years for women aged 21 to 29 years; for women aged 30 to 65, options include high-risk HPV testing every 5 years, HPV plus cytology co-testing every 5 years, or cytology alone every 3 years.
+- Lung Cancer Screening: Annual low-dose computed tomography (LDCT) for adults aged 50 to 80 years who have a 20 pack-year smoking history and currently smoke or have quit within the past 15 years.
+- Prostate Cancer Screening: Shared decision-making regarding PSA (prostate-specific antigen) testing for men aged 55 to 69 years.
+
+3. Bone Health:
+- Osteoporosis Screening: Dual-energy X-ray absorptiometry (DEXA) bone density screening is recommended for all women aged 65 and older, and for younger postmenopausal women with significant clinical fracture risk factors.
+
+4. Skin Cancer Awareness:
+Perform periodic skin self-examinations using the ABCDE rule for assessing pigmented skin lesions (moles):
+- A - Asymmetry: One half does not match the other.
+- B - Border irregularity: Edges are ragged, notched, or blurred.
+- C - Color variation: Uneven shades of brown, black, red, white, or blue.
+- D - Diameter: Greater than 6 mm (about the size of a pencil eraser).
+- E - Evolving: Any change in size, shape, elevation, bleeding, itching, or crusting over time.
+
+5. General Cancer Warning Signs (The CAUTION Acronym):
+- C: Change in bowel or bladder habits
+- A: A sore that does not heal
+- U: Unusual bleeding or discharge
+- T: Thickening or lump in breast, testicle, or elsewhere
+- I: Indigestion or difficulty swallowing (dysphagia)
+- O: Obvious change in a wart or mole
+- N: Nagging cough or persistent hoarseness
+- Unexplained weight loss, drenching night sweats, or persistent fever
+
+ADULT IMMUNIZATION RECOMMENDATIONS
+- Influenza Vaccine: Annual vaccination for all individuals aged 6 months and older.
+- COVID-19 Vaccine: Periodic boosters according to updated public health guidelines.
+- Tetanus, Diphtheria, Pertussis (Tdap): Tdap booster once in adulthood, followed by Td or Tdap booster every 10 years, and during each pregnancy.
+- Shingles (Herpes Zoster) Vaccine: Two doses of recombinant zoster vaccine (Shingrix) for adults aged 50 and older to prevent shingles and post-herpetic neuralgia.
+- Pneumococcal Vaccine: Recommended for adults aged 65 and older, and younger adults with chronic medical conditions (asthma, COPD, diabetes, heart disease).
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+

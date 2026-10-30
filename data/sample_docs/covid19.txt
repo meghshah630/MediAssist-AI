@@ -1,0 +1,118 @@
+COVID-19 – SYMPTOMS, VARIANTS, VACCINATION, AND LONG COVID
+
+OVERVIEW
+COVID-19 (Coronavirus Disease 2019) is an infectious disease caused by the SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2) virus. It was declared a pandemic by the World Health Organization (WHO) in March 2020. The virus spreads primarily through respiratory droplets and aerosols from infected individuals, as well as via contaminated surfaces (fomite transmission).
+
+VIROLOGY AND TRANSMISSION
+SARS-CoV-2 is a single-stranded, positive-sense RNA beta-coronavirus. Its spike protein binds to the ACE2 (angiotensin-converting enzyme 2) receptor on human cells to gain entry. The incubation period ranges from 2 to 14 days (typically 4–6 days). Transmission occurs via:
+- Close contact with infected persons (within 2 metres / 6 feet)
+- Inhalation of respiratory aerosols in poorly ventilated indoor spaces
+- Contact with contaminated surfaces followed by touching the face
+- Highest viral shedding occurs in the 2 days before and 5 days after symptom onset
+
+SYMPTOMS
+COVID-19 presents with a wide spectrum of severity:
+
+Mild to Moderate Symptoms:
+- Fever or chills
+- Cough (dry or productive)
+- Fatigue and malaise
+- Shortness of breath or difficulty breathing
+- Loss of taste (ageusia) or smell (anosmia) – characteristic of earlier variants
+- Sore throat and runny nose
+- Muscle aches and headache
+- Nausea, vomiting, or diarrhoea
+- Skin rashes ("COVID toes" – chilblain-like lesions)
+
+Severe Symptoms (requiring emergency care):
+- Persistent chest pain or pressure
+- Severe shortness of breath (oxygen saturation < 94%)
+- New confusion or altered consciousness
+- Cyanosis (bluish discolouration of lips or fingertips)
+- Inability to remain awake
+
+MAJOR VARIANTS
+- Alpha (B.1.1.7): First identified UK; 50–70% more transmissible
+- Delta (B.1.617.2): Dominant 2021; high transmissibility, more severe disease
+- Omicron (B.1.1.529) and sub-lineages (BA.1–5, XBB, BQ.1, EG.5, JN.1): Highly mutated spike protein; increased immune evasion; generally milder disease but explosive spread. Later Omicron sub-variants (XBB.1.5, EG.5, JN.1) showed further immune evasion.
+
+Risk factors for severe disease:
+- Older age (> 60 years, risk increases dramatically with age)
+- Immunocompromised status (HIV, immunosuppressive therapy, haematological malignancies)
+- Obesity (BMI ≥ 30 kg/m²)
+- Diabetes mellitus (particularly poorly controlled)
+- Cardiovascular disease and hypertension
+- Chronic kidney or liver disease
+- Chronic respiratory disease (COPD, moderate-to-severe asthma)
+- Cancer (especially blood cancers)
+- Pregnancy
+
+DIAGNOSIS
+- RT-PCR (reverse transcriptase polymerase chain reaction) test: Gold standard; high sensitivity and specificity; detects viral RNA from nasopharyngeal swab, throat swab, or saliva sample.
+- Rapid antigen tests (lateral flow devices): Useful for symptomatic individuals and mass screening; lower sensitivity than PCR; highly specific. Most reliable during peak infectivity period.
+- Serology (antibody tests): Detect past infection or vaccination response.
+- Chest CT: Shows ground-glass opacities, consolidation in moderate-severe disease.
+- Chest X-ray: May show bilateral infiltrates in pneumonia.
+
+TREATMENT
+Mild to Moderate COVID-19:
+- Supportive care: Rest, adequate hydration, antipyretics (paracetamol/acetaminophen) for fever
+- Antiviral therapy (for high-risk patients within 5 days of symptom onset):
+  * Nirmatrelvir-ritonavir (Paxlovid): Oral protease inhibitor; significantly reduces hospitalisation/death; multiple drug interactions
+  * Remdesivir: IV antiviral; approved for hospitalised patients
+  * Molnupiravir: Oral antiviral; modest efficacy; not recommended in pregnancy
+
+Severe/Critical COVID-19:
+- Dexamethasone 6 mg daily (10 days): Reduces mortality in patients requiring supplemental oxygen
+- Baricitinib or Tocilizumab: IL-6 or JAK inhibitor; for patients with rapidly increasing oxygen requirements and elevated inflammatory markers
+- Supplemental oxygen: Target SpO2 ≥ 94%; high-flow nasal oxygen, CPAP/NIV for hypoxaemic failure; mechanical ventilation in ARDS
+- Therapeutic anticoagulation: For hospitalised patients to prevent thromboembolic complications
+- Prone positioning: For mechanically ventilated patients with ARDS
+
+VACCINATION
+mRNA vaccines (Pfizer-BioNTech BNT162b2, Moderna mRNA-1273):
+- Two-dose primary series plus boosters
+- Highly effective at preventing severe disease, hospitalisation, and death
+- Updated bivalent and XBB.1.5-targeting boosters available for broad protection
+- Common side effects: Injection site pain, fatigue, headache, myalgia, fever (typically 1–2 days)
+- Rare: Myocarditis (especially in young males after second mRNA dose; usually mild and self-resolving)
+
+Adenoviral vector vaccines (Oxford-AstraZeneca ChAdOx1, Johnson & Johnson):
+- Single or two-dose regimens
+- Rare: Vaccine-induced immune thrombocytopenia and thrombosis (VITT)
+
+Protein subunit vaccines (Novavax NVX-CoV2373): For those who prefer non-mRNA technology.
+
+LONG COVID (Post-Acute Sequelae of SARS-CoV-2 Infection)
+Definition: New, returning, or ongoing symptoms persisting more than 12 weeks after acute infection.
+Prevalence: Estimated 10–30% of non-hospitalised cases; higher in those hospitalised.
+
+Common symptoms:
+- Persistent fatigue (most common)
+- Post-exertional malaise (worsening after physical/mental activity)
+- Brain fog (cognitive impairment, difficulty concentrating)
+- Breathlessness and chest pain
+- Heart palpitations and postural tachycardia (POTS)
+- Sleep disturbances
+- Anxiety and depression
+- Joint and muscle pain
+- Hair loss (telogen effluvium)
+- Anosmia or parosmia (distorted smell)
+
+Management of Long COVID:
+- Multidisciplinary approach (respiratory, cardiology, physiotherapy, psychology)
+- Pacing activity to avoid post-exertional malaise
+- Cognitive rehabilitation for brain fog
+- Physiotherapy (breathing exercises, graded activity)
+- Pharmacological: Treat specific symptoms (antihistamines for mast cell activation, low-dose naltrexone being studied)
+- No approved specific treatments; clinical trials ongoing
+
+PREVENTION MEASURES
+- Vaccination (most effective)
+- Ventilation improvement in indoor spaces
+- Wearing FFP2/N95 masks in high-risk settings
+- Hand hygiene
+- Isolation of cases; test-and-trace strategies
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+

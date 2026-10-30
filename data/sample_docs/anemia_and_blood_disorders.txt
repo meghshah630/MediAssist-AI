@@ -1,0 +1,57 @@
+ANEMIA AND COMMON BLOOD DISORDERS
+
+Source: Educational content based on WHO, NHS, and ASH (American Society of Hematology) guidelines
+
+OVERVIEW
+Anemia is a clinical condition characterized by a deficiency in the number of healthy red blood cells (erythrocytes) or a decrease in the concentration of hemoglobin within circulating blood. Hemoglobin is the iron-containing protein that binds and transports oxygen from the lungs to tissues throughout the body. Anemia results in impaired tissue oxygen delivery, leading to cellular hypoxia and clinical symptoms.
+
+DIAGNOSTIC THRESHOLDS FOR ANEMIA (WHO Standards):
+- Adult Men: Hemoglobin less than 13.0 g/dL (or less than 130 g/L)
+- Non-pregnant Adult Women: Hemoglobin less than 12.0 g/dL (or less than 120 g/L)
+- Pregnant Women: Hemoglobin less than 11.0 g/dL (or less than 110 g/L)
+- Children (6 to 59 months): Hemoglobin less than 11.0 g/dL
+
+COMMON SYMPTOMS OF ANEMIA
+The severity of symptoms depends on the degree of anemia and the speed at which it develops:
+- Generalized fatigue, exhaustion, and low stamina
+- Pale skin, pale conjunctiva of the lower eyelids, and pale nail beds
+- Shortness of breath (dyspnea) on mild exertion
+- Dizziness, lightheadedness, and orthostatic hypotension
+- Palpitations and tachycardia (heart beating rapidly to compensate for reduced oxygen-carrying capacity)
+- Cold hands and feet
+- Headaches and cognitive slowing
+- Brittle nails (koilonychia / spoon nails in severe chronic iron deficiency)
+- Glossitis (swollen, smooth, sore tongue) and angular cheilitis (cracks at the corners of the mouth)
+- Pica (unusual cravings for non-food items such as ice, dirt, or chalk)
+
+TYPES AND CAUSES OF ANEMIA
+
+1. Iron-Deficiency Anemia (IDA):
+The most prevalent form of anemia worldwide. Caused by insufficient iron required for hemoglobin synthesis.
+- Common Causes: Chronic blood loss (heavy menstrual bleeding, gastrointestinal bleeding from ulcers, colon polyps, or colorectal cancer), inadequate dietary iron intake, increased physiologic demands (pregnancy, rapid growth), and impaired intestinal absorption (celiac disease, bariatric surgery, Helicobacter pylori infection).
+- Diagnostic Markers: Low serum ferritin (ferritin less than 30 ng/mL is diagnostic of iron deficiency), low serum iron, elevated total iron-binding capacity (TIBC), and microcytic hypochromic red blood cells on blood smear (low MCV < 80 fL).
+- Treatment: Oral iron supplementation (such as ferrous sulfate, ferrous fumarate, or ferrous gluconate) providing 100 to 200 mg of elemental iron daily, or intravenous iron for patients with malabsorption or severe deficiency. Co-administering with vitamin C (ascorbic acid) enhances absorption; avoid taking iron supplements simultaneously with tea, coffee, calcium, or dairy products.
+
+2. Vitamin B12 and Folate Deficiency Anemia (Megaloblastic Anemia):
+Resulting from defective DNA synthesis in erythrocyte precursors, producing large, immature red blood cells (macrocytic, MCV > 100 fL).
+- Vitamin B12 Deficiency: Caused by pernicious anemia (autoimmune destruction of gastric parietal cells that produce intrinsic factor), strict vegan diets without supplementation, ileal resection, or malabsorption. Symptoms also include neurological deficits such as peripheral neuropathy (numbness, tingling in fingers/toes), ataxia, memory loss, and mood changes.
+- Folate Deficiency: Caused by insufficient dietary intake of green leafy vegetables and legumes, alcoholism, or pregnancy. Does not cause the neurological deficits seen with B12 deficiency.
+- Treatment: Oral or intramuscular cyanocobalamin / hydroxocobalamin for B12; daily oral folic acid (1 to 5 mg) for folate deficiency. Crucial note: Always test and correct B12 deficiency before giving high-dose folate to prevent irreversible neurological damage.
+
+3. Anemia of Chronic Disease / Chronic Inflammation:
+Seen in patients with chronic inflammatory conditions, autoimmune diseases (rheumatoid arthritis, lupus), chronic kidney disease, or malignancies. Elevated hepcidin blocks iron release from macrophages and intestinal enterocytes.
+- Diagnostic Markers: Normal or elevated ferritin, low serum iron, low or normal TIBC, normocytic red blood cells. Treatment focuses on managing the underlying chronic condition and using erythropoiesis-stimulating agents (ESAs) where indicated.
+
+4. Hemolytic Anemias:
+Premature destruction of red blood cells. May be inherited (sickle cell disease, thalassemia, G6PD deficiency) or acquired (autoimmune hemolytic anemia). Marked by elevated indirect bilirubin, elevated LDH, decreased haptoglobin, and reticulocytosis.
+
+RED FLAGS AND EMERGENCY WARNING SIGNS
+Prompt emergency medical care is needed if anemia is accompanied by:
+- Severe acute shortness of breath at rest
+- Chest pain, pressure, or signs of acute myocardial ischemia
+- Syncope (fainting or loss of consciousness)
+- Massive gastrointestinal bleeding (vomiting blood or passing black, tarry stools / melena)
+- Hemoglobin dropping below 7.0 g/dL requiring urgent blood transfusion assessment
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+

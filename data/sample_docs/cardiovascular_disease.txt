@@ -1,0 +1,115 @@
+CARDIOVASCULAR DISEASE – RISK FACTORS, PREVENTION, STATINS, AND SURGERY
+
+OVERVIEW
+Cardiovascular disease (CVD) is the leading cause of death globally, responsible for approximately 17.9 million deaths per year, representing 32% of all global deaths. CVD encompasses a group of disorders affecting the heart and blood vessels, including:
+- Coronary artery disease (CAD) / ischaemic heart disease
+- Cerebrovascular disease (stroke and TIA)
+- Peripheral arterial disease (PAD)
+- Heart failure
+- Cardiomyopathies
+- Arrhythmias
+- Valvular heart disease
+- Congenital heart defects
+- Deep vein thrombosis and pulmonary embolism
+
+CORONARY ARTERY DISEASE (CAD)
+Atherosclerosis – the accumulation of lipid-laden plaques within the arterial wall – is the primary underlying mechanism. This process begins early in life and progresses silently over decades. Vulnerable plaques may rupture, triggering thrombosis and acute coronary syndromes (ACS): unstable angina, NSTEMI (Non-ST-elevation myocardial infarction), or STEMI (ST-elevation myocardial infarction).
+
+RISK FACTORS
+
+Non-Modifiable Risk Factors:
+- Age: Men ≥ 45 years; Women ≥ 55 years (post-menopause)
+- Male sex (though women's risk equalises after menopause)
+- Family history of premature CVD (first-degree relative, male < 55, female < 65 years)
+- Ethnicity: Higher risk in South Asian, African-Caribbean populations
+
+Modifiable Risk Factors:
+- Hyperlipidaemia (elevated LDL cholesterol, low HDL, elevated triglycerides)
+- Hypertension (systolic blood pressure ≥ 130 mmHg)
+- Tobacco smoking (including e-cigarettes) – dose-dependent, significantly increases risk
+- Diabetes mellitus (2–4× increased CVD risk)
+- Obesity and overweight (especially central adiposity; waist circumference > 102 cm men, > 88 cm women)
+- Physical inactivity
+- Unhealthy diet (high saturated and trans fats, excess sodium, low fruit and vegetables)
+- Excess alcohol consumption (> 14 units/week)
+- Psychosocial stress (depression, social isolation, job stress – equivalent to 1–2 traditional risk factors)
+- Obstructive sleep apnea
+- Air pollution exposure
+
+Emerging Risk Factors:
+- Elevated Lp(a) lipoprotein – genetically determined; major independent risk factor
+- Elevated C-reactive protein (CRP) – marker of systemic inflammation
+- Atrial fibrillation (5× stroke risk)
+- Clonal haematopoiesis of indeterminate potential (CHIP)
+- Inflammatory conditions (rheumatoid arthritis, psoriasis, lupus, HIV infection)
+- Chronic kidney disease (eGFR < 60 mL/min/1.73 m²)
+- Autoimmune disease
+- Adverse pregnancy outcomes (pre-eclampsia, preterm delivery, gestational diabetes)
+
+SYMPTOMS OF CORONARY ARTERY DISEASE
+Stable angina: Chest pain or pressure (often described as squeezing, tightening, heaviness) brought on by exertion or stress; relieved within minutes by rest or sublingual nitrates.
+Acute MI: Severe, crushing chest pain (may radiate to jaw, left arm, back, or epigastrium); diaphoresis; nausea; breathlessness; feeling of impending doom. NOTE: Women and diabetics may present atypically with fatigue, shortness of breath, jaw pain only, or nausea without chest pain.
+
+PREVENTION
+
+Primary Prevention (preventing first event):
+- CVD risk calculation: QRISK3 (UK), Framingham (USA), SCORE2 (Europe)
+- Target: 10-year CVD risk < 10% (low risk); 10–20% (moderate); > 20% (high)
+- Smoking cessation (single most effective intervention)
+- Blood pressure control (target < 130/80 mmHg)
+- Statin therapy for high-risk individuals
+- Diabetes management (HbA1c target < 53 mmol/mol)
+- Weight management and regular exercise (150 min/week moderate aerobic + muscle strengthening)
+- Healthy diet: Mediterranean-style or DASH diet
+- Low-dose aspirin: No longer routinely recommended for primary prevention due to bleeding risk
+
+Secondary Prevention (preventing recurrence):
+- Dual antiplatelet therapy (aspirin + clopidogrel/ticagrelor/prasugrel) post-ACS
+- High-intensity statin therapy (Atorvastatin 80 mg, Rosuvastatin 40 mg)
+- ACE inhibitors or ARBs (after MI with reduced ejection fraction)
+- Beta-blockers (post-MI, heart failure with reduced EF)
+- SGLT2 inhibitors and GLP-1 agonists (CVD risk reduction in diabetics)
+- Cardiac rehabilitation programme
+
+STATIN THERAPY
+Statins are HMG-CoA reductase inhibitors that reduce hepatic cholesterol synthesis, lowering LDL-C by 25–60%.
+
+High-intensity statins (LDL-C reduction ≥ 50%): Atorvastatin 40–80 mg, Rosuvastatin 20–40 mg
+Moderate-intensity statins (LDL-C reduction 30–50%): Atorvastatin 10–20 mg, Simvastatin 20–40 mg, Pravastatin 40–80 mg
+
+Side effects:
+- Myalgia (muscle aches) – most common; consider CK measurement
+- Myopathy and rarely rhabdomyolysis (especially with drug interactions: cyclosporine, macrolides, antifungals, fibrates)
+- Elevated liver enzymes (transaminases): Monitor LFTs at baseline
+- New-onset diabetes mellitus (modest, 10–15% increased relative risk)
+- Memory issues (rare, disputed by evidence)
+Contraindications: Active liver disease, pregnancy, breastfeeding
+
+Additional Lipid-Lowering Agents:
+- Ezetimibe: Inhibits intestinal cholesterol absorption; add-on to statin or for statin intolerance; 20% additional LDL reduction
+- PCSK9 inhibitors (Evolocumab, Alirocumab): Injectable monoclonal antibodies; 50–70% additional LDL reduction; for very high-risk patients or statin intolerance; expensive
+- Inclisiran: siRNA injectable against PCSK9; given twice yearly
+- Icosapent ethyl (Vascepa): Omega-3 fatty acid for elevated triglycerides with CVD risk reduction
+- Fibrates: Primarily for hypertriglyceridaemia; gemfibrozil (avoid with statins), fenofibrate
+
+CORONARY REVASCULARISATION
+
+Percutaneous Coronary Intervention (PCI) / Angioplasty:
+- Balloon dilation of blocked coronary artery followed by stent placement
+- Drug-eluting stents (DES) preferred; release antiproliferative drugs to prevent restenosis
+- Post-procedure: Dual antiplatelet therapy for 12 months (aspirin + P2Y12 inhibitor)
+- Preferred for STEMI, single or two vessel disease, symptomatic lesions
+
+Coronary Artery Bypass Grafting (CABG):
+- Surgical creation of alternate blood supply routes using internal mammary artery (gold standard) or saphenous vein grafts
+- Preferred for left main coronary artery disease, triple vessel disease, diabetics with multivessel disease, reduced LV function
+- Operative mortality: 1–3% for elective procedures; higher for emergency CABG
+- Recovery: 6–12 weeks; long-term graft patency superior with arterial grafts
+
+HEART FAILURE
+Heart failure affects 64 million people globally. Key features: dyspnoea, orthopnoea, PND, peripheral oedema, fatigue.
+HFrEF (reduced ejection fraction < 40%): ACE inhibitor/ARB, beta-blocker, MRA (spironolactone), SGLT2 inhibitor (Dapagliflozin, Empagliflozin) – all reduce mortality.
+HFpEF (preserved EF ≥ 50%): SGLT2 inhibitors reduce hospitalisation. Diuretics for symptom control.
+
+DISCLAIMER: This information is for educational purposes only and should not replace professional medical advice, diagnosis, or treatment.
+
