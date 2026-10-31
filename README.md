@@ -84,7 +84,7 @@ python --version  # must be 3.11 or higher
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/meghshah630/MediAssist-AI.git
 cd MediAssist-AI
 
 # 2. Create and activate a virtual environment
@@ -102,6 +102,8 @@ copy .env.example .env
 # 5. Run the app
 streamlit run app.py
 ```
+
+On first launch, the app creates its local SQLite database. In the sidebar, click **🔄 Ingest Documents** to build the local ChromaDB from the bundled sample documents. The embedding model is downloaded the first time it is needed. Generated databases are excluded from Git and are not uploaded.
 
 ---
 
@@ -221,14 +223,15 @@ MediAssist-AI/
 ├── tools/
 │   └── kb_coverage_report.py # KB audit: doc count, chunk count, gap analysis
 ├── data/
-│   ├── sample_docs/          # 18 medical text files (.txt)
-│   └── chroma_db/            # ChromaDB persistent storage (94 chunks)
+│   └── sample_docs/          # 18 medical text files (.txt)
 └── tests/                    # pytest test suite (205 tests)
     ├── test_voice.py         # STT & read-along Web Speech tests (23 tests)
     ├── test_rag_evaluation.py # RAG retrieval quality tests (17 tests)
     ├── test_chat_repo.py     # Chat sessions, titles, search & messages (20 tests)
     └── ...                   # Core module unit tests (145 tests)
 ```
+
+Only `data/sample_docs/` is committed. `data/chroma_db/` and `data/mediassist.db` are generated locally when the app is used and are excluded from Git.
 
 ---
 
@@ -346,11 +349,10 @@ All data stays on your machine:
 
 ## License
 
-MIT License. See LICENSE file for details.
+No license file is included yet. Add your chosen license before allowing others to reuse or redistribute this project.
 
 ---
 
 ## Disclaimer
 
 ⚠️ MediAssist AI is for educational purposes only. It is NOT a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for personal health decisions.
-
